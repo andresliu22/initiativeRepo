@@ -1,0 +1,55 @@
+{
+  "BrandList": [
+    {
+        "id": 123,
+        "name": "SODIMAC",
+        "imageUrl": "https://dummyimage.com/60x60/000/fff.jpg"
+    },
+    {
+        "id": 234,
+        "name": "MAESTRO",
+        "imageUrl": "https://dummyimage.com/60x60/000/fff.jpg"
+    },
+    {
+        "id": 345,
+        "name": "SAGA",
+        "imageUrl": "https://dummyimage.com/60x60/000/fff.jpg"
+    }
+  ],
+  "ReportList": [
+    {
+        "title": "RESUMEN DIGITAL",
+        "description": "Online",
+        "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
+    },
+    {
+        "title": "IMPLEMENTACIÓN DE CAMPAÑAS",
+        "description": "10/10/20",
+        "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
+    },
+    {
+        "title": "INVERSIÓN",
+        "description": "Online",
+        "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
+    },
+    {
+        "title": "ESTADO DE CUENTA",
+        "description": "Online",
+        "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
+    },
+    {
+        "title": "REPORTE DE MERCADO",
+        "description": "Online",
+        "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
+    },
+    {
+        "title": "FACTURACIÓN",
+        "description": "Online",
+        "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
+    }
+  ]
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 }
+  ],
+  "profile": { "name": "typicode" }
+}
