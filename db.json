@@ -47,9 +47,5 @@
         "description": "14/10/20",
         "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
     }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
+  ]
 }
