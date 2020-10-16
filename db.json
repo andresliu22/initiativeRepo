@@ -29,25 +29,25 @@
     },
     {
         "title": "INVERSIÓN",
-        "description": "Online",
+        "description": "11/10/20",
         "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
     },
     {
         "title": "ESTADO DE CUENTA",
-        "description": "Online",
+        "description": "12/10/20",
         "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
     },
     {
         "title": "REPORTE DE MERCADO",
-        "description": "Online",
+        "description": "13/10/20",
         "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
     },
     {
         "title": "FACTURACIÓN",
-        "description": "Online",
+        "description": "14/10/20",
         "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
     }
-  ]
+  ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 }
   ],
