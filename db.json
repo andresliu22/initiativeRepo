@@ -53,19 +53,19 @@
           "title": "Noticia 1",
           "description": "hace 1 d",
           "linkUrl": "https://www.datacenterdynamics.com/es/features/10-noticias-que-cambiaron-un-poco-el-mundo/",
-          "imageUrl": "https://media.datacenterdynamics.com/media/images/Extra.width-880.jpg"
+          "imageUrl": "https://dummyimage.com/360x160/000/fff.jpg"
       },
       {
           "title": "Noticia 2",
           "description": "hace 2 d",
           "linkUrl": "https://www.datacenterdynamics.com/es/features/10-noticias-que-cambiaron-un-poco-el-mundo/",
-          "imageUrl": "https://media.datacenterdynamics.com/media/images/Extra.width-880.jpg"
+          "imageUrl": "https://dummyimage.com/360x160/000/fff.jpg"
       },
       {
           "title": "Noticia 3",
           "description": "hace 3 d",
           "linkUrl": "https://www.datacenterdynamics.com/es/features/10-noticias-que-cambiaron-un-poco-el-mundo/",
-          "imageUrl": "https://media.datacenterdynamics.com/media/images/Extra.width-880.jpg"
+          "imageUrl": "https://dummyimage.com/360x160/000/fff.jpg"
       }
   ]
 }
