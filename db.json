@@ -47,5 +47,25 @@
         "description": "14/10/20",
         "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
     }
+  ],
+  "NewsList": [
+      {
+          "title": "Noticia 1",
+          "description": "hace 1 d",
+          "linkUrl": "https://www.datacenterdynamics.com/es/features/10-noticias-que-cambiaron-un-poco-el-mundo/",
+          "imageUrl": "https://media.datacenterdynamics.com/media/images/Extra.width-880.jpg"
+      },
+      {
+          "title": "Noticia 2",
+          "description": "hace 2 d",
+          "linkUrl": "https://www.datacenterdynamics.com/es/features/10-noticias-que-cambiaron-un-poco-el-mundo/",
+          "imageUrl": "https://media.datacenterdynamics.com/media/images/Extra.width-880.jpg"
+      },
+      {
+          "title": "Noticia 3",
+          "description": "hace 3 d",
+          "linkUrl": "https://www.datacenterdynamics.com/es/features/10-noticias-que-cambiaron-un-poco-el-mundo/",
+          "imageUrl": "https://media.datacenterdynamics.com/media/images/Extra.width-880.jpg"
+      }
   ]
 }
