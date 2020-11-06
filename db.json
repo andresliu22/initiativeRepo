@@ -167,23 +167,6 @@
                 ]
               },
               {
-                "id": 16,
-                "name": "CINE",
-                "amount": 132.6,
-                "Providers": [
-                  {
-                    "id": 23,
-                    "name": "GOOGLE",
-                    "amount": 24.6
-                  },
-                  {
-                    "id": 12,
-                    "name": "FACEBOOK",
-                    "amount": 22.6
-                  }
-                ]
-              },
-              {
                 "id": 1,
                 "name": "Internet",
                 "amount": 54000000.55,
@@ -224,23 +207,6 @@
                     "id": 12,
                     "name": "FACEBOOK",
                     "amount": 12.6
-                  }
-                ]
-              },
-              {
-                "id": 16,
-                "name": "CINE",
-                "amount": 132.6,
-                "Providers": [
-                  {
-                    "id": 23,
-                    "name": "GOOGLE",
-                    "amount": 24.6
-                  },
-                  {
-                    "id": 12,
-                    "name": "FACEBOOK",
-                    "amount": 22.6
                   }
                 ]
               },
@@ -289,23 +255,6 @@
                 ]
               },
               {
-                "id": 16,
-                "name": "CINE",
-                "amount": 132.6,
-                "Providers": [
-                  {
-                    "id": 23,
-                    "name": "GOOGLE",
-                    "amount": 24.6
-                  },
-                  {
-                    "id": 12,
-                    "name": "FACEBOOK",
-                    "amount": 22.6
-                  }
-                ]
-              },
-              {
                 "id": 1,
                 "name": "Internet",
                 "amount": 54000000.55,
@@ -346,23 +295,6 @@
                     "id": 12,
                     "name": "FACEBOOK",
                     "amount": 12.6
-                  }
-                ]
-              },
-              {
-                "id": 16,
-                "name": "CINE",
-                "amount": 132.6,
-                "Providers": [
-                  {
-                    "id": 23,
-                    "name": "GOOGLE",
-                    "amount": 24.6
-                  },
-                  {
-                    "id": 12,
-                    "name": "FACEBOOK",
-                    "amount": 22.6
                   }
                 ]
               },
@@ -411,23 +343,6 @@
                 ]
               },
               {
-                "id": 16,
-                "name": "CINE",
-                "amount": 132.6,
-                "Providers": [
-                  {
-                    "id": 23,
-                    "name": "GOOGLE",
-                    "amount": 24.6
-                  },
-                  {
-                    "id": 12,
-                    "name": "FACEBOOK",
-                    "amount": 22.6
-                  }
-                ]
-              },
-              {
                 "id": 1,
                 "name": "Internet",
                 "amount": 54000000.55,
@@ -442,11 +357,6 @@
                     "name": "FACEBOOK",
                     "amount": 20
                   },
-                  {
-                    "id": 10,
-                    "name": "Cadreon",
-                    "amount": 24000000
-                  }
                 ]
               }
             ]
