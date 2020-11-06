@@ -59,18 +59,6 @@
             "name": "Enero",
             "Media": [
               {
-                "id": 23,
-                "name": "TV",
-                "amount": 122.6,
-                "Providers": [
-                  {
-                    "id": 23,
-                    "name": "GOOGLE",
-                    "amount": 7800000
-                  }
-                ]
-              },
-              {
                 "id": 1,
                 "name": "Internet",
                 "amount": 234.55,
@@ -91,21 +79,6 @@
                     "amount": 34000000
                   }
                 ]
-              },
-              {
-                "id": 2,
-                "name": "Prensa",
-                "amount": 444.55
-              },
-              {
-                "id": 3,
-                "name": "Encarte",
-                "amount": 4454.55
-              },
-              {
-                "id": 4,
-                "name": "Btl",
-                "amount": 4554.55
               }
             ]
           },
