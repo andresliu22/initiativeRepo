@@ -1,21 +1,4 @@
 {
-  "BrandList": [
-    {
-        "idBrand": 123,
-        "name": "SODIMAC",
-        "imageUrl": "https://dummyimage.com/60x60/000/fff.jpg"
-    },
-    {
-        "idBrand": 234,
-        "name": "MAESTRO",
-        "imageUrl": "https://dummyimage.com/60x60/000/fff.jpg"
-    },
-    {
-        "idBrand": 345,
-        "name": "SAGA",
-        "imageUrl": "https://dummyimage.com/60x60/000/fff.jpg"
-    }
-  ],
   "ReportList": [
     {
         "title": "RESUMEN DIGITAL",
