@@ -1,4 +1,22 @@
 {
+    "BrandList": [
+      {
+          "id": 101,
+          "name": "Ripley",
+          "ImageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
+      },
+      {
+          "id": 102,
+          "name": "Saga",
+          "ImageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
+      },
+      {
+          "id": 103,
+          "name": "Plaza",
+          "ImageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
+      }
+    ],
+    
   "ReportList": [
     {
         "title": "RESUMEN DIGITAL",
@@ -49,197 +67,6 @@
           "description": "hace 3 d",
           "linkUrl": "https://www.datacenterdynamics.com/es/features/10-noticias-que-cambiaron-un-poco-el-mundo/",
           "imageUrl": "https://dummyimage.com/360x160/000/fff.jpg"
-      }
-  ],
-  "InversionList": [
-      {
-        "year": 2020,
-        "Months": [
-          {
-            "name": "Enero",
-            "Media": [
-              {
-                "id": 1,
-                "name": "Internet",
-                "amount": 234.55,
-                "Providers": [
-                  {
-                    "id": 23,
-                    "name": "GOOGLE",
-                    "amount": 7800000
-                  },
-                  {
-                    "id": 12,
-                    "name": "FACEBOOK",
-                    "amount": 10
-                  },
-                  {
-                    "id": 10,
-                    "name": "Cadreon",
-                    "amount": 34000000
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Febrero",
-            "Media": [
-              {
-                "id": 1,
-                "name": "Internet",
-                "amount": 54000000.55,
-                "Providers": [
-                  {
-                    "id": 23,
-                    "name": "GOOGLE",
-                    "amount": 7400000
-                  },
-                  {
-                    "id": 12,
-                    "name": "FACEBOOK",
-                    "amount": 20
-                  },
-                  {
-                    "id": 10,
-                    "name": "Cadreon",
-                    "amount": 24000000
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Marzo",
-            "Media": [
-              {
-                "id": 1,
-                "name": "Internet",
-                "amount": 54000000.55,
-                "Providers": [
-                  {
-                    "id": 23,
-                    "name": "GOOGLE",
-                    "amount": 7100000
-                  },
-                  {
-                    "id": 12,
-                    "name": "FACEBOOK",
-                    "amount": 20
-                  },
-                  {
-                    "id": 10,
-                    "name": "Cadreon",
-                    "amount": 24000000
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Abril",
-            "Media": [
-              {
-                "id": 1,
-                "name": "Internet",
-                "amount": 54000000.55,
-                "Providers": [
-                  {
-                    "id": 23,
-                    "name": "GOOGLE",
-                    "amount": 7000000
-                  },
-                  {
-                    "id": 12,
-                    "name": "FACEBOOK",
-                    "amount": 20
-                  },
-                  {
-                    "id": 10,
-                    "name": "Cadreon",
-                    "amount": 24000000
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Mayo",
-            "Media": [
-              {
-                "id": 1,
-                "name": "Internet",
-                "amount": 54000000.55,
-                "Providers": [
-                  {
-                    "id": 23,
-                    "name": "GOOGLE",
-                    "amount": 7500000
-                  },
-                  {
-                    "id": 12,
-                    "name": "FACEBOOK",
-                    "amount": 20
-                  },
-                  {
-                    "id": 10,
-                    "name": "Cadreon",
-                    "amount": 24000000
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Junio",
-            "Media": [
-              {
-                "id": 1,
-                "name": "Internet",
-                "amount": 54000000.55,
-                "Providers": [
-                  {
-                    "id": 23,
-                    "name": "GOOGLE",
-                    "amount": 7300000
-                  },
-                  {
-                    "id": 12,
-                    "name": "FACEBOOK",
-                    "amount": 20
-                  },
-                  {
-                    "id": 10,
-                    "name": "Cadreon",
-                    "amount": 24000000
-                  }
-                ]
-              }
-            ]
-          },
-          {
-            "name": "Julio",
-            "Media": [
-              {
-                "id": 1,
-                "name": "Internet",
-                "amount": 54000000.55,
-                "Providers": [
-                  {
-                    "id": 23,
-                    "name": "GOOGLE",
-                    "amount": 7900000
-                  },
-                  {
-                    "id": 12,
-                    "name": "FACEBOOK",
-                    "amount": 20
-                  }
-                ]
-              }
-            ]
-          }
-        ]
       }
   ]
 }
