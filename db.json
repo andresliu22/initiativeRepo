@@ -68,7 +68,7 @@
           "imageUrl": "https://dummyimage.com/360x160/000/fff.jpg"
       }
   ],
-  "InversionList": [
+  "InversionList":
       {
         "year": 2020,
         "Months": [
@@ -99,7 +99,7 @@
               }
             ]
           },
-          { 
+          {
             "name": "Febrero",
             "Media": [
               {
@@ -182,6 +182,6 @@
           }
         ]
       }
-  ]
+  
 }
 
