@@ -145,6 +145,28 @@
                     "amount": 650
                   }
                 ]
+              },
+              {
+                "id": 2,
+                "name": "TV",
+                "amount": 250,
+                "Providers": [
+                  {
+                    "id": 23,
+                    "name": "GOOGLE",
+                    "amount": 600
+                  },
+                  {
+                    "id": 12,
+                    "name": "FACEBOOK",
+                    "amount": 500
+                  },
+                  {
+                    "id": 10,
+                    "name": "Cadreon",
+                    "amount": 400
+                  }
+                ]
               }
             ]
           },
@@ -172,6 +194,28 @@
                     "amount": 900
                   }
                 ]
+              },
+              {
+                "id": 2,
+                "name": "TV",
+                "amount": 250,
+                "Providers": [
+                  {
+                    "id": 23,
+                    "name": "GOOGLE",
+                    "amount": 600
+                  },
+                  {
+                    "id": 12,
+                    "name": "FACEBOOK",
+                    "amount": 500
+                  },
+                  {
+                    "id": 10,
+                    "name": "Cadreon",
+                    "amount": 400
+                  }
+                ]
               }
             ]
           },
@@ -197,6 +241,28 @@
                     "id": 10,
                     "name": "Cadreon",
                     "amount": 5600
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "name": "TV",
+                "amount": 250,
+                "Providers": [
+                  {
+                    "id": 23,
+                    "name": "GOOGLE",
+                    "amount": 600
+                  },
+                  {
+                    "id": 12,
+                    "name": "FACEBOOK",
+                    "amount": 500
+                  },
+                  {
+                    "id": 10,
+                    "name": "Cadreon",
+                    "amount": 400
                   }
                 ]
               }
