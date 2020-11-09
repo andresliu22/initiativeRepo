@@ -83,17 +83,17 @@
                   {
                     "id": 23,
                     "name": "GOOGLE",
-                    "amount": 7800000
+                    "amount": 750
                   },
                   {
                     "id": 12,
                     "name": "FACEBOOK",
-                    "amount": 10
+                    "amount": 650
                   },
                   {
                     "id": 10,
                     "name": "Cadreon",
-                    "amount": 34000000
+                    "amount": 700
                   }
                 ]
               }
@@ -110,17 +110,17 @@
                   {
                     "id": 23,
                     "name": "GOOGLE",
-                    "amount": 7400000
+                    "amount": 740
                   },
                   {
                     "id": 12,
                     "name": "FACEBOOK",
-                    "amount": 20
+                    "amount": 900
                   },
                   {
                     "id": 10,
                     "name": "Cadreon",
-                    "amount": 24000000
+                    "amount": 650
                   }
                 ]
               }
@@ -137,17 +137,17 @@
                   {
                     "id": 23,
                     "name": "GOOGLE",
-                    "amount": 7100000
+                    "amount": 710
                   },
                   {
                     "id": 12,
                     "name": "FACEBOOK",
-                    "amount": 20
+                    "amount": 800
                   },
                   {
                     "id": 10,
                     "name": "Cadreon",
-                    "amount": 24000000
+                    "amount": 900
                   }
                 ]
               }
@@ -164,17 +164,17 @@
                   {
                     "id": 23,
                     "name": "GOOGLE",
-                    "amount": 7000000
+                    "amount": 700
                   },
                   {
                     "id": 12,
                     "name": "FACEBOOK",
-                    "amount": 20
+                    "amount": 460
                   },
                   {
                     "id": 10,
                     "name": "Cadreon",
-                    "amount": 24000000
+                    "amount": 5600
                   }
                 ]
               }
