@@ -83,17 +83,39 @@
                   {
                     "id": 23,
                     "name": "GOOGLE",
-                    "amount": 750
+                    "amount": 400
                   },
                   {
                     "id": 12,
                     "name": "FACEBOOK",
-                    "amount": 650
+                    "amount": 500
                   },
                   {
                     "id": 10,
                     "name": "Cadreon",
-                    "amount": 700
+                    "amount": 600
+                  }
+                ]
+              },
+              {
+                "id": 2,
+                "name": "TV",
+                "amount": 250,
+                "Providers": [
+                  {
+                    "id": 23,
+                    "name": "GOOGLE",
+                    "amount": 600
+                  },
+                  {
+                    "id": 12,
+                    "name": "FACEBOOK",
+                    "amount": 500
+                  },
+                  {
+                    "id": 10,
+                    "name": "Cadreon",
+                    "amount": 400
                   }
                 ]
               }
