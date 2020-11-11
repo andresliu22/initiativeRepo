@@ -18,22 +18,22 @@
     ],
   "ReportList": [
     {
-        "title": "RESUMEN DIGITAL",
+        "title": "INVERSIÓN",
         "description": "Online",
         "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
     },
     {
-        "title": "IMPLEMENTACIÓN DE CAMPAÑAS",
+        "title": "ESTADO DE CUENTA",
         "description": "10/10/20",
         "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
     },
     {
-        "title": "INVERSIÓN",
+        "title": "FACTURACIÓN",
         "description": "11/10/20",
         "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
     },
     {
-        "title": "ESTADO DE CUENTA",
+        "title": "RESUMEN DIGITAL",
         "description": "12/10/20",
         "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
     },
@@ -43,7 +43,7 @@
         "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
     },
     {
-        "title": "FACTURACIÓN",
+        "title": "IMPLEMENTACIÓN DE CAMPAÑAS",
         "description": "14/10/20",
         "imageUrl": "https://dummyimage.com/100x100/000/fff.jpg"
     }
