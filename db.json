@@ -60,12 +60,6 @@
           "description": "hace 2 d",
           "linkUrl": "https://www.datacenterdynamics.com/es/features/10-noticias-que-cambiaron-un-poco-el-mundo/",
           "imageUrl": "https://dummyimage.com/360x160/000/fff.jpg"
-      },
-      {
-          "title": "Noticia 3",
-          "description": "hace 3 d",
-          "linkUrl": "https://www.datacenterdynamics.com/es/features/10-noticias-que-cambiaron-un-poco-el-mundo/",
-          "imageUrl": "https://dummyimage.com/360x160/000/fff.jpg"
       }
   ],
   "ImplementacionList": [
