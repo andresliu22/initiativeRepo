@@ -68,7 +68,27 @@
           "imageUrl": "https://dummyimage.com/360x160/000/fff.jpg"
       }
   ],
+  "ImplementacionList": [
+      {
+          "id": 11254,
+          "title": "MAMÁ",
+          "Category": [
+            {
+              "title": "VIDEO",
+              "imageUrl": "image.com",
+              "date": "20/10/2020",
+              "media": "Internet"
+            },
+            {
+              "title": "BANNER",
+              "imageUrl": "image.com",
+              "date": "01/10/2020",
+              "media": "Internet"
+            }
+          ]
+      }
 
+  ],
   "InversionList": [
       {
         "year": 2020,
