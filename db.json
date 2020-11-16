@@ -69,13 +69,13 @@
           "Category": [
             {
               "title": "VIDEO",
-              "imageUrl": "image.com",
+              "imageUrl": "https://image.freepik.com/vector-gratis/casa-dos-pisos_1308-16176.jpg",
               "date": "20/10/2020",
               "media": "Internet"
             },
             {
               "title": "BANNER",
-              "imageUrl": "image.com",
+              "imageUrl": "https://image.freepik.com/vector-gratis/casa-dos-pisos_1308-16176.jpg",
               "date": "01/10/2020",
               "media": "Internet"
             }
